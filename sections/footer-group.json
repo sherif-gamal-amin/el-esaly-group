@@ -13,17 +13,6 @@
   "sections": {
     "footer": {
       "type": "footer",
-      "blocks": {
-        "brand_information_ye696Y": {
-          "type": "brand_information",
-          "settings": {
-            "show_social": true
-          }
-        }
-      },
-      "block_order": [
-        "brand_information_ye696Y"
-      ],
       "settings": {
         "color_scheme": "scheme-1",
         "newsletter_enable": true,
@@ -35,8 +24,8 @@
         "payment_enable": true,
         "show_policy": true,
         "margin_top": 0,
-        "padding_top": 36,
-        "padding_bottom": 36
+        "padding_top": 0,
+        "padding_bottom": 12
       }
     }
   },
