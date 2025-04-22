@@ -91,7 +91,7 @@
           "settings": {
             "image": "shopify://shop_images/output.png",
             "heading": "medical products",
-            "heading_size": "h1",
+            "heading_size": "h2",
             "subheading": "",
             "button_label": "see more",
             "link": "",
@@ -109,7 +109,7 @@
           "settings": {
             "image": "shopify://shop_images/output_1.png",
             "heading": "freight shipping",
-            "heading_size": "h1",
+            "heading_size": "h2",
             "subheading": "",
             "button_label": "see more",
             "link": "",
@@ -127,7 +127,7 @@
           "settings": {
             "image": "shopify://shop_images/output_2.png",
             "heading": "Book a medical examination online",
-            "heading_size": "h1",
+            "heading_size": "h2",
             "subheading": "",
             "button_label": "see more",
             "link": "",
