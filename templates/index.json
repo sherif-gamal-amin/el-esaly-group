@@ -157,21 +157,6 @@
         "accessibility_info": "Slideshow about our brand"
       }
     },
-    "video_mDqkza": {
-      "type": "video",
-      "settings": {
-        "heading": "",
-        "heading_size": "h1",
-        "enable_video_looping": true,
-        "video": "shopify://files/videos/pixverse%2Fmp4%2Fmedia%2Fweb%2F68903ca7-9397-475b-b84c-170a0718bfac_seed593307674.mp4",
-        "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-        "description": "",
-        "full_width": true,
-        "color_scheme": "",
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
     "collapsible_content_MDRMXm": {
       "type": "collapsible-content",
       "blocks": {
@@ -232,13 +217,28 @@
         "padding_top": 0,
         "padding_bottom": 60
       }
+    },
+    "video_mDqkza": {
+      "type": "video",
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "enable_video_looping": true,
+        "video": "shopify://files/videos/pixverse%2Fmp4%2Fmedia%2Fweb%2F68903ca7-9397-475b-b84c-170a0718bfac_seed593307674.mp4",
+        "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "description": "",
+        "full_width": true,
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
     }
   },
   "order": [
     "image_banner",
     "rich_text_mtyFGw",
     "slideshow_RmxwYd",
-    "video_mDqkza",
-    "collapsible_content_MDRMXm"
+    "collapsible_content_MDRMXm",
+    "video_mDqkza"
   ]
 }
