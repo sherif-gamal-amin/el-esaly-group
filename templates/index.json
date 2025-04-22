@@ -146,10 +146,13 @@
         "slide_htCETY",
         "slide_8CVHFm"
       ],
+      "custom_css": [
+        ".slideshow__text.banner__box {background-color: #1d6d8485 }"
+      ],
       "settings": {
         "layout": "full_bleed",
         "slide_height": "medium",
-        "slider_visual": "counter",
+        "slider_visual": "dots",
         "auto_rotate": false,
         "change_slides_speed": 5,
         "image_behavior": "none",
