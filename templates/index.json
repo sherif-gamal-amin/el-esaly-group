@@ -30,7 +30,7 @@
       "settings": {
         "image": "shopify://shop_images/470574708_1004503468378250_8671467239115401476_n.jpg",
         "image_overlay_opacity": 10,
-        "image_height": "small",
+        "image_height": "adapt",
         "desktop_content_position": "bottom-center",
         "show_text_box": false,
         "desktop_content_alignment": "center",
@@ -47,20 +47,20 @@
         "heading_kh6Hkc": {
           "type": "heading",
           "settings": {
-            "heading": "Talk about your brand",
+            "heading": "El ESALY GROUP",
             "heading_size": "h1"
           }
         },
         "text_QMbybn": {
           "type": "text",
           "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>"
+            "text": "<p>Trade, sale, purchase, shipping, and many other services</p>"
           }
         },
         "button_9FfiMT": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
+            "button_label": "",
             "button_link": "",
             "button_style_secondary": false,
             "button_label_2": "",
@@ -79,8 +79,8 @@
         "content_alignment": "center",
         "color_scheme": "",
         "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
+        "padding_top": 0,
+        "padding_bottom": 60
       }
     },
     "video_mDqkza": {
