@@ -79,8 +79,8 @@
         "content_alignment": "center",
         "color_scheme": "",
         "full_width": true,
-        "padding_top": 60,
-        "padding_bottom": 60
+        "padding_top": 100,
+        "padding_bottom": 100
       }
     },
     "slideshow_RmxwYd": {
@@ -147,7 +147,7 @@
         "slide_8CVHFm"
       ],
       "custom_css": [
-        ".slideshow__text.banner__box {background-color: #1d6d8485 }"
+        ".slideshow__text.banner__box {background-color: #1d6d8485;}"
       ],
       "settings": {
         "layout": "full_bleed",
